@@ -1,0 +1,8 @@
+"funnel_stage","funnel_name","user_count","percent_of_top","percent_of_previous"
+"0","App Downloads","23608","100.00",""
+"1","Signups","17623","74.65","74.65"
+"2","Ride Requests","12406","52.55","70.40"
+"3","Rides Accepted","12278","52.01","98.97"
+"4","Rides Completed","6233","26.40","50.77"
+"5","Payments Approved","6233","26.40","100.00"
+"6","Reviews","4348","18.42","69.76"
