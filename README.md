@@ -13,4 +13,7 @@
 * Use SQL to query essential data and Tableau or Google Sheets to visualise the user journey funnel, focusing on the identification of crucial stages and drop-off points in Metrocar's ride-sharing platform.
 
 ## 2. Submission and  Feedback
-
+* [The submission pack](https://github.com/Vincentopoku11/Metrocar-Funnel-Analysis/blob/main/Metrocar%20.zip)
+* [Funnel Analysis Report](https://github.com/Vincentopoku11/Metrocar-Funnel-Analysis/blob/main/Metrocar%20Report.pdf)
+* [Presentation Slides](https://github.com/Vincentopoku11/Metrocar-Funnel-Analysis/blob/main/Metrocar%20Presentation.pdf)
+  
