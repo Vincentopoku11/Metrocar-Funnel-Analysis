@@ -17,3 +17,7 @@
 * [Funnel Analysis Report](https://github.com/Vincentopoku11/Metrocar-Funnel-Analysis/blob/main/Metrocar%20Report.pdf)
 * [Presentation Slides](https://github.com/Vincentopoku11/Metrocar-Funnel-Analysis/blob/main/Metrocar%20Presentation.pdf)
 * On November 20th, 2023 (ahead of the project's final submission date of November 26th, 2023), the author received immediate feedback for his initial contribution on his Masterschool Campus account, which was graded with an A.
+
+
+## Tools And Resources
+### PostgresSQL, Tableau
