@@ -11,4 +11,6 @@
 
 ## 1. Project description
 * Use SQL to query essential data and Tableau or Google Sheets to visualise the user journey funnel, focusing on the identification of crucial stages and drop-off points in Metrocar's ride-sharing platform.
-  
+
+## 2. Submission and  Feedback
+
