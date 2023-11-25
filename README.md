@@ -16,6 +16,7 @@
 * [The submission pack](https://github.com/Vincentopoku11/Metrocar-Funnel-Analysis/blob/main/Metrocar%20.zip)
 * [Funnel Analysis Report](https://github.com/Vincentopoku11/Metrocar-Funnel-Analysis/blob/main/Metrocar%20Report.pdf)
 * [Presentation Slides](https://github.com/Vincentopoku11/Metrocar-Funnel-Analysis/blob/main/Metrocar%20Presentation.pdf)
+* [Metrocar Tableau Visualisation](https://github.com/Vincentopoku11/Metrocar-Funnel-Analysis/blob/main/Metrocar%202.twbx)
 * On November 20th, 2023 (ahead of the project's final submission date of November 26th, 2023), the author received immediate feedback for his initial contribution on his Masterschool Campus account, which was graded with an A.
 
 
@@ -24,7 +25,6 @@
 * I chose PostgreSQL as my SQL tool of choice for data extraction and in-depth analysis for the Metrocar funnel analysis, employing its extensive features to investigate and comprehend every stage of the customer journey inside the dataset. Additionally, I harnessed the power of Tableau to create engaging and informative data visualisations. These visualisations played a crucial role in offering a comprehensive perspective on the funnel analysis, highlighting key areas of user interaction and drop-off.
 
 * [SQL code](https://github.com/Vincentopoku11/Metrocar-Funnel-Analysis/blob/main/Links%20%26%20SQL%20Codes.pdf)
-* [Metrocar Tableau Visualisation](https://github.com/Vincentopoku11/Metrocar-Funnel-Analysis/blob/main/Metrocar%202.twbx)
 * [Funnel Data csv 1](https://github.com/Vincentopoku11/Metrocar-Funnel-Analysis/blob/main/Funnel%20Data%201.csv)
 * [Funnel Data csv 2](https://github.com/Vincentopoku11/Metrocar-Funnel-Analysis/blob/main/Funnel%20Data%202.csv)
 * [Funnel Data csv 3](https://github.com/Vincentopoku11/Metrocar-Funnel-Analysis/blob/main/Funnel%20Data%203.csv)
