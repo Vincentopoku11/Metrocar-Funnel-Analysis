@@ -21,7 +21,6 @@
 
 
 ## Tools And Resources
-### PostgresSQL, Tableau
 * I chose PostgreSQL as my SQL tool of choice for data extraction and in-depth analysis for the Metrocar funnel analysis, employing its extensive features to investigate and comprehend every stage of the customer journey inside the dataset. Additionally, I harnessed the power of Tableau to create engaging and informative data visualisations. These visualisations played a crucial role in offering a comprehensive perspective on the funnel analysis, highlighting key areas of user interaction and drop-off.
 
 * [SQL code](https://github.com/Vincentopoku11/Metrocar-Funnel-Analysis/blob/main/Links%20%26%20SQL%20Codes.pdf)
