@@ -25,4 +25,8 @@
 
 * [SQL code](https://github.com/Vincentopoku11/Metrocar-Funnel-Analysis/blob/main/Links%20%26%20SQL%20Codes.pdf)
 * [Metrocar Tableau Visualisation](https://github.com/Vincentopoku11/Metrocar-Funnel-Analysis/blob/main/Metrocar%202.twbx)
-* 
+* [Funnel Data csv 1](https://github.com/Vincentopoku11/Metrocar-Funnel-Analysis/blob/main/Funnel%20Data%201.csv)
+* [Funnel Data csv 2](https://github.com/Vincentopoku11/Metrocar-Funnel-Analysis/blob/main/Funnel%20Data%202.csv)
+* [Funnel Data csv 3](https://github.com/Vincentopoku11/Metrocar-Funnel-Analysis/blob/main/Funnel%20Data%203.csv)
+* [Percent of top vs Percent of previous csv](https://github.com/Vincentopoku11/Metrocar-Funnel-Analysis/blob/main/Percent%20of%20Top%20Vs%20Percent%20Of%20Previous.csv)
+  
